@@ -117,7 +117,7 @@
 
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rauldhinoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&order=2&custom_title=Code%20Composition&hide=Jupyter%20Notebook" height="200" alt="Top languages used by Raul" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rauldhinoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dark&hide_border=false&order=2&custom_title=Code%20Composition&exclude_repo=ML_Modelling_Regression" height="200" alt="Top languages used by Raul" />
 </div>
 
 ###
